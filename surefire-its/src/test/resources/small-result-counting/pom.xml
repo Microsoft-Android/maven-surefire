@@ -30,7 +30,7 @@
     </plugins>
   </build>
   <properties>
-    <junit.version>4.8.1</junit.version>
+    <junit.version>4.13.1</junit.version>
     <forkMode>once</forkMode>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
